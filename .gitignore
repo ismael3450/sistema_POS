@@ -1,0 +1,14 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Archivos de PyCharm
+.idea/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Otros ejemplos útiles
+.env
+.DS_Store
